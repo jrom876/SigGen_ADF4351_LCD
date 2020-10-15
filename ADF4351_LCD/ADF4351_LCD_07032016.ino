@@ -39,7 +39,7 @@
 //    appears on the screen. This memorization works then the cursor is anywhere except on the reference 10 or 25 position.
 //    - For the reference frequency, move the cursor to 10 or 25, the press the SELECT for one second.
 
-//  ******************************************** HARDWARE IMPORTANT********************************************************
+//  ******************************************** HARDWARE IMPORTANT ********************************************************
 //  With an Arduino un0 : uses a resistive divider to reduce the voltage, MOSI (pin 11) to
 //  ADF DATA, SCK (pin13) to ADF CLK, Select (PIN 3) to ADF LE
 //  Resistive divider 560 Ohm with 1000 Ohm to ground on Arduino pins 11, 13 et 3 to adapt from 5V
@@ -47,7 +47,7 @@
 //  Arduino pin 2 (for lock detection) directly connected to ADF4351 card MUXOUT.
 //  The ADF card is 5V powered by the ARDUINO (PINs +5V and GND are closed to the Arduino LED).
 
-//************************************************* MANUAL*****************************************************************
+//************************************************* MANUAL *****************************************************************
 //touch LEFT    cursor to the left, cursor to the left
 //touch RIGHT   cursor to the right, cursor to the right
 //touch UP      frequence or memory increment, increase frequency
