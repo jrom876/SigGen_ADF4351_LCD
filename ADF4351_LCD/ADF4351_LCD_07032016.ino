@@ -1,7 +1,7 @@
 //
 //   Jacob Romero
 //   Creative Engineering Solutions
-//   Translation and Modification of Alain Fort's ADF4251 Driver
+//   Translation and Modification of Alain Fort's ADF4351 Driver
 
 //   This excellent code by Alain Fort was originally written in French,
 //   and needed significant translation and debug before it could actually
@@ -13,7 +13,7 @@
 //
 //  ************************************************** ORIGINAL **********************************************************
 
-//   ADF4251 and Arduino
+//   ADF4351 and Arduino
 //   By Alain Fort F1CJN feb 2,2016
 //   update march 7, 2016 (ROBOT V1.1 and V1.0)
 //
