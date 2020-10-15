@@ -1,5 +1,7 @@
 Jacob Romero
+
 Creative Engineering Solutions
+
 Translation and Modification of Alain Fort's ADF4251 Driver
 
 This excellent code by Alain Fort was originally written in French,
