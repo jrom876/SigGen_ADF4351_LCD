@@ -21,7 +21,7 @@
 //  *************************************************** ENGLISH ***********************************************************
 //
 //  This sketch uses an Arduino uno (5€), a standard "LCD buttons shield" from ROBOT (5€), with buttons and an ADF4351 chinese
-//  card found at EBAY (40€). The frequency can be programmed between 34.5 and 4400 MHz.
+//  card found at EBAY (40€). The frequency can be programmed between 34.5 MHz and 4400 MHz.
 //  Twenty frequencies can be memorized into the Arduino EEPROM.
 //  If one or more frequencies are memorized, then at power on, the memory zero is always selected.
 //
@@ -29,7 +29,7 @@
 //    for the frequency, the memories and the frequency reference (10 or 25 MHz):
 //   - to change the frequency, move the cursor to the digit to be modified, then use the UP and DOWN buttons,
 //   - to modify the memory number,move the cursor to the number to be modified, then use the UP and DOWN buttons,
-//   - to select the refrence frequence,move the cursor on 10 or 25 and select with UP and DOWN.
+//   - to select the reference frequence,move the cursor on 10 or 25 and select with UP and DOWN.
 //   - to read or write the frequency in memory, place the cursor on the more left/more down position and select REE (for Reading EEprom)
 //    or WEE (for Writing EEprom).
 //    The cursor dissapears after few seconds and is reactivated if a button is pressed.
@@ -54,7 +54,7 @@
 //touch DOWN    frequence or memory decrement, decrease frequency
 //touch SELECT  long push = frequency memorization into the EE number EEPROM / or reference memorization
 //*************************************************************************************************************************
-// Warning : if you are using a ROBOT Shied version 1.1, it is necessary to modify the read_lcd_buttons sub routine
+// Warning : if you are using a ROBOT Shield version 1.1, it is necessary to modify the read_lcd_buttons sub routine
 // you need to uncomment the 1.1 version and to comment the 1.0 version. See below
 
 #include <LiquidCrystal.h>
