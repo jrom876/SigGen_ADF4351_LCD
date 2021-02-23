@@ -10,6 +10,8 @@ run in my custom frequency generator and amplifier circuit.
 
 Contained herein is my rewrite of Alain's code, with all of his comments intact.
 
+I left a little French in the translation for flavor.
+
 This is being shared to help others who wish to use the ADF4351 with an Arduino LCD Shield.
 
 CHEERS!
