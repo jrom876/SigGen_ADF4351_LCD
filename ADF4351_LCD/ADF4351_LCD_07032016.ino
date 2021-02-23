@@ -20,7 +20,7 @@
 //
 //  *************************************************** ENGLISH ***********************************************************
 //
-//  This sketch uses and Arduino uno (5€), a standard "LCD buttons shield" from ROBOT (5€), with buttons and an ADF4351 chinese
+//  This sketch uses an Arduino uno (5€), a standard "LCD buttons shield" from ROBOT (5€), with buttons and an ADF4351 chinese
 //  card found at EBAY (40€). The frequency can be programmed between 34.5 and 4400 MHz.
 //  Twenty frequencies can be memorized into the Arduino EEPROM.
 //  If one or more frequencies are memorized, then at power on, the memory zero is always selected.
