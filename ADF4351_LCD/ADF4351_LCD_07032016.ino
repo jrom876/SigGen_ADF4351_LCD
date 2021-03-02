@@ -74,7 +74,7 @@ uint32_t registers[6] =  {0x4580A8, 0x80080C9, 0x4E42, 0x4B3, 0xBC803C, 0x580005
 int address,modif=0,WEE=0;
 int lcd_key = 0;
 int adc_key_in  = 0;
-int timer = 0,timer2=0; // used to measureee the contact time on a touch
+int timer = 0,timer2=0; // used to measure the contact time on a touch
 unsigned int i = 0;
 
 
