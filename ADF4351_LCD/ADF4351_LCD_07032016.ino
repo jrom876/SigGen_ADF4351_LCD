@@ -29,7 +29,7 @@
 //    for the frequency, the memories and the frequency reference (10 or 25 MHz):
 //   - to change the frequency, move the cursor to the digit to be modified, then use the UP and DOWN buttons,
 //   - to modify the memory number,move the cursor to the number to be modified, then use the UP and DOWN buttons,
-//   - to select the reference frequence,move the cursor on 10 or 25 and select with UP and DOWN.
+//   - to select the reference frequency,move the cursor on 10 or 25 and select with UP and DOWN.
 //   - to read or write the frequency in memory, place the cursor on the more left/more down position and select REE (for Reading EEprom)
 //    or WEE (for Writing EEprom).
 //    The cursor dissapears after few seconds and is reactivated if a button is pressed.
@@ -40,7 +40,7 @@
 //    - For the reference frequency, move the cursor to 10 or 25, the press the SELECT for one second.
 
 //  ******************************************** HARDWARE IMPORTANT ********************************************************
-//  With an Arduino un0 : uses a resistive divider to reduce the voltage, MOSI (pin 11) to
+//  With an Arduino Uno : uses a resistive divider to reduce the voltage, MOSI (pin 11) to
 //  ADF DATA, SCK (pin13) to ADF CLK, Select (PIN 3) to ADF LE
 //  Resistive divider 560 Ohm with 1000 Ohm to ground on Arduino pins 11, 13 et 3 to adapt from 5V
 //  to 3.3V the digital signals DATA, CLK and LE send by the Arduino.
