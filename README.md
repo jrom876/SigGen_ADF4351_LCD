@@ -2,7 +2,7 @@ Jacob Romero
 
 Creative Engineering Solutions
 
-Translation and Modification of Alain Fort's ADF4351 Driver
+Translation and Modification of Alain Fort's ADF4351 RF Signal Generator Driver for an Arduino LCD Shield
 
 This excellent code by Alain Fort was originally written in French,
 and needed significant translation and debug before it could actually
