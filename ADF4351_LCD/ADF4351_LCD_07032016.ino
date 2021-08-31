@@ -1,13 +1,17 @@
 //
-//   Jacob Romero
-//   Creative Engineering Solutions
+//   Author:    Jacob Romero
+//   Owner:     Creative Engineering Solutions
+//   Project:   RF Signal Generator
+//   Purpose:   Generating RF Test Frequencies for Antennae and Sensor Networks
+
 //   Translation and Modification of Alain Fort's ADF4351 Driver
 
-//   This excellent code by Alain Fort was originally written in French,
-//   and needed significant translation and debug before it could actually
+//   Much of this code was written by Alain Fort with comments in French,
+//   and it needed significant translation and debug before it could actually
 //   run in my custom frequency generator and amplifier circuit.
 //
-//   Contained herein is my rewrite of Alain's code, with all of his comments intact.
+//   Contained herein is my rewrite of Alain's code, with most of his comments 
+//   and code translated and intact.
 //
 //   CHEERS!
 //
