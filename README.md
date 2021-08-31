@@ -2,15 +2,10 @@ Jacob Romero
 
 Creative Engineering Solutions
 
-Translation and Modification of Alain Fort's ADF4351 RF Signal Generator Driver for an Arduino LCD Shield
+ADF4351 RF Signal Generator Driver for an Arduino LCD Shield
 
-This excellent code by Alain Fort was originally written in French,
-and needed significant translation and debug before it could 
-run in my custom frequency generator and amplifier circuit (not shown at this time).
-
-Contained herein is my rewrite of Alain's code, with all of his comments intact.
-
-I left a little French in the translation for flavor.
+This Arduino code was originally written to run in my custom frequency generator and amplifier circuit, 
+which was used for testing Ground Penetrating Radar Antennae designs(not shown at this time).
 
 This is being shared to help others who wish to use the ADF4351 with an Arduino LCD Shield.
 
